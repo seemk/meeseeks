@@ -6,6 +6,6 @@
   "ex_doc": {:hex, :ex_doc, "0.15.0", "e73333785eef3488cf9144a6e847d3d647e67d02bd6fdac500687854dd5c599f", [:mix], [{:earmark, "~> 1.1", [hex: :earmark, repo: "hexpm", optional: false]}], "hexpm"},
   "hoedown": {:git, "https://github.com/hoedown/hoedown.git", "980b9c549b4348d50b683ecee6abee470b98acda", []},
   "markdown": {:git, "https://github.com/devinus/markdown.git", "d065dbcc4e242a85ca2516fdadd0082712871fd8", []},
-  "meeseeks_html5ever": {:hex, :meeseeks_html5ever, "0.9.0", "18f62516d4b026b736dc389bf507b7fa90b49a1f4a2729a3cf6a4a1482007328", [:mix], [{:rustler, "~> 0.16", [hex: :rustler, repo: "hexpm", optional: false]}], "hexpm"},
-  "rustler": {:hex, :rustler, "0.17.0", "919c03b77abcf4f6ded2a3433b08829b0ec57b9f382af0ae24e4d1e229a7069e", [:mix], [], "hexpm"},
+  "meeseeks_html5ever": {:git, "https://github.com/seemk/meeseeks_html5ever.git", "6104211b2fccaf97e4d495538f961e1c00694b30", []},
+  "rustler": {:git, "https://github.com/hansihe/rustler.git", "b6578ea3999fd42f377c2497d8fae0bd629b927d", []},
 }
